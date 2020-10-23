@@ -6,6 +6,7 @@
     <img src="./logo.jpg" width="200" height="200">
   </kbd>
 </div>
+
 ### 앱스토어링크 <kbd>[이동](https://apps.apple.com/app/id1534315470)</kbd>
 
 ***
